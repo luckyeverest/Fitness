@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fitness
+namespace Fitness.CMD
 {
     class Program
     {
@@ -9,4 +9,4 @@ namespace Fitness
             Console.WriteLine("Hello World!");
         }
     }
-}//22 34
+}
